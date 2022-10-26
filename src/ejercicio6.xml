@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE listacursos SYSTEM "ejercicio6.dtd">
+<listacursos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="ejercicio6.xsd">
+    <curso>
+        <alumno>
+            <dni>1001138977</dni>
+            <nombre>Camilo</nombre>
+            <ap1>Ramirez</ap1>
+            <listaasignaturas>
+                <asignatura codigo="S01">
+                    <nombre>Diseño del sistema</nombre>
+                    <profesor>
+                        <nrp>4343</nrp>
+                        <nombre>Carlos</nombre>
+                        <ap1>Builes</ap1>
+                    </profesor>
+                </asignatura>
+            </listaasignaturas>
+        </alumno>
+    </curso>
+</listacursos>
